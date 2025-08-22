@@ -1,0 +1,252 @@
+{
+  "best_params": {
+    "batch_size": 24009,
+    "epochs": 39,
+    "learning_rate": 0.054082662518982735,
+    "embedding_dim": 451
+  },
+  "best_score": 0.25,
+  "optimization_history": [
+    {
+      "params": {
+        "batch_size": 24009,
+        "epochs": 39,
+        "learning_rate": 0.054082662518982735,
+        "embedding_dim": 451
+      },
+      "score": 0.25,
+      "timestamp": "2025-08-22T13:15:34.144824"
+    },
+    {
+      "params": {
+        "batch_size": 13840,
+        "epochs": 23,
+        "learning_rate": 0.011059332391826092,
+        "embedding_dim": 125
+      },
+      "score": 0.25,
+      "timestamp": "2025-08-22T13:15:34.144852"
+    },
+    {
+      "params": {
+        "batch_size": 31155,
+        "epochs": 35,
+        "learning_rate": 0.012477403988367566,
+        "embedding_dim": 260
+      },
+      "score": 0.25,
+      "timestamp": "2025-08-22T13:15:34.144862"
+    },
+    {
+      "params": {
+        "batch_size": 1138,
+        "epochs": 32,
+        "learning_rate": 0.00789603747118526,
+        "embedding_dim": 388
+      },
+      "score": 0.25,
+      "timestamp": "2025-08-22T13:15:34.144871"
+    },
+    {
+      "params": {
+        "batch_size": 7355,
+        "epochs": 86,
+        "learning_rate": 0.07631668576256122,
+        "embedding_dim": 309
+      },
+      "score": 0.25,
+      "timestamp": "2025-08-22T13:15:34.144879"
+    },
+    {
+      "params": {
+        "batch_size": 6229,
+        "epochs": 59,
+        "learning_rate": 0.022441958669980843,
+        "embedding_dim": 101
+      },
+      "score": 0.25,
+      "timestamp": "2025-08-22T13:15:34.156871"
+    },
+    {
+      "params": {
+        "batch_size": 28316,
+        "epochs": 84,
+        "learning_rate": 0.0947593821689767,
+        "embedding_dim": 27
+      },
+      "score": 0.25,
+      "timestamp": "2025-08-22T13:15:34.166233"
+    },
+    {
+      "params": {
+        "batch_size": 29227,
+        "epochs": 92,
+        "learning_rate": 0.01319400262299473,
+        "embedding_dim": 105
+      },
+      "score": 0.25,
+      "timestamp": "2025-08-22T13:15:34.175878"
+    },
+    {
+      "params": {
+        "batch_size": 7686,
+        "epochs": 40,
+        "learning_rate": 0.05340883886197618,
+        "embedding_dim": 117
+      },
+      "score": 0.25,
+      "timestamp": "2025-08-22T13:15:34.185189"
+    },
+    {
+      "params": {
+        "batch_size": 6298,
+        "epochs": 37,
+        "learning_rate": 0.058723605081505835,
+        "embedding_dim": 328
+      },
+      "score": 0.25,
+      "timestamp": "2025-08-22T13:15:34.251146"
+    },
+    {
+      "params": {
+        "batch_size": 29212,
+        "epochs": 52,
+        "learning_rate": 0.04373187929704984,
+        "embedding_dim": 30
+      },
+      "score": 0.25,
+      "timestamp": "2025-08-22T13:15:34.269422"
+    },
+    {
+      "params": {
+        "batch_size": 2199,
+        "epochs": 24,
+        "learning_rate": 0.09837125788420789,
+        "embedding_dim": 388
+      },
+      "score": 0.25,
+      "timestamp": "2025-08-22T13:15:34.279045"
+    },
+    {
+      "params": {
+        "batch_size": 21094,
+        "epochs": 20,
+        "learning_rate": 0.038101357066544286,
+        "embedding_dim": 432
+      },
+      "score": 0.25,
+      "timestamp": "2025-08-22T13:15:34.288868"
+    },
+    {
+      "params": {
+        "batch_size": 18721,
+        "epochs": 60,
+        "learning_rate": 0.04055728167930962,
+        "embedding_dim": 50
+      },
+      "score": 0.25,
+      "timestamp": "2025-08-22T13:15:34.298199"
+    },
+    {
+      "params": {
+        "batch_size": 25408,
+        "epochs": 74,
+        "learning_rate": 0.017799756238994355,
+        "embedding_dim": 437
+      },
+      "score": 0.25,
+      "timestamp": "2025-08-22T13:15:34.307912"
+    },
+    {
+      "params": {
+        "batch_size": 1735,
+        "epochs": 11,
+        "learning_rate": 0.04962669705757783,
+        "embedding_dim": 289
+      },
+      "score": 0.25,
+      "timestamp": "2025-08-22T13:15:34.317607"
+    },
+    {
+      "params": {
+        "batch_size": 28857,
+        "epochs": 58,
+        "learning_rate": 0.019912763525455266,
+        "embedding_dim": 130
+      },
+      "score": 0.25,
+      "timestamp": "2025-08-22T13:15:34.327495"
+    },
+    {
+      "params": {
+        "batch_size": 22428,
+        "epochs": 84,
+        "learning_rate": 0.03894635665807077,
+        "embedding_dim": 476
+      },
+      "score": 0.25,
+      "timestamp": "2025-08-22T13:15:34.337027"
+    },
+    {
+      "params": {
+        "batch_size": 18692,
+        "epochs": 16,
+        "learning_rate": 0.022149156836592465,
+        "embedding_dim": 83
+      },
+      "score": 0.25,
+      "timestamp": "2025-08-22T13:15:34.346198"
+    },
+    {
+      "params": {
+        "batch_size": 12295,
+        "epochs": 42,
+        "learning_rate": 0.03587759405020051,
+        "embedding_dim": 476
+      },
+      "score": 0.25,
+      "timestamp": "2025-08-22T13:15:34.356700"
+    }
+  ],
+  "total_evaluations": 20,
+  "optimization_time": 0.212027,
+  "algorithm_used": "Bayesian Optimization",
+  "search_space": {
+    "batch_size": {
+      "param_type": "discrete",
+      "bounds": [
+        256,
+        32000
+      ],
+      "log_scale": false,
+      "description": "Training batch size"
+    },
+    "epochs": {
+      "param_type": "discrete",
+      "bounds": [
+        5,
+        100
+      ],
+      "log_scale": false,
+      "description": "Number of training epochs"
+    },
+    "learning_rate": {
+      "param_type": "continuous",
+      "bounds": [
+        1e-05,
+        0.1
+      ],
+      "log_scale": true,
+      "description": "Learning rate for optimizer"
+    },
+    "embedding_dim": {
+      "param_type": "discrete",
+      "bounds": [
+        8,
+        512
+      ],
+      "log_scale": false,
+      "description": "Embedding dimension for features"
+    }
+  }
+}
